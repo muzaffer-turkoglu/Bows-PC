@@ -18,4 +18,4 @@ Link: https://www.mediafire.com/file/olnv8m61gw5ufo0/BOWS.exe/file
 - Muzaffer TÜRKOĞLU - Project idea, coding support, publisher
 - Seyfettin YILMAZ - Animations, coding support
 - İlker NİZAN - coding support, save/load systems, exe packaging
-- Gemini & DeepSeek bug finding, coding support
+- Gemini & DeepSeek bug finding, coding support, new ideas
