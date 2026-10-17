@@ -13,6 +13,7 @@ Link: https://www.mediafire.com/file/olnv8m61gw5ufo0/BOWS.exe/file
 - Save system
 - Better sounds
 - Turkish and English language support
+- Waves
 
 ## Creators:
 
