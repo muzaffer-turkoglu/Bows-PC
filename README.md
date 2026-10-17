@@ -1,5 +1,7 @@
 # Bows-PC
 Link: https://www.mediafire.com/file/olnv8m61gw5ufo0/BOWS.exe/file
+Version: 1.0
+Published in: 17.10.2026
 ## Controls:
 
 - WASD = Movement
