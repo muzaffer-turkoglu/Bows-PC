@@ -1,9 +1,10 @@
 # Bows-PC
 Link: https://www.mediafire.com/file/olnv8m61gw5ufo0/BOWS.exe/file
 ## Controls:
--WASD = Movement
--SPACE/LEFT CLICK = Shoot
--ESC = Pause
+
+- WASD = Movement
+- SPACE = Shoot
+- ESC = Pause
 
 ## What is Different in BOWS 2:
 
