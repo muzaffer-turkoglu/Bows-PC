@@ -15,7 +15,7 @@ Link: https://www.mediafire.com/file/olnv8m61gw5ufo0/BOWS.exe/file
 
 ## Creators:
 
-- Muzaffer TÜRKOĞLU - Project idea, Python support
-- Seyfettin YILMAZ - Animations, Python support
-- İlker NİZAN - Python support, save/load systems, exe packaging
-- Gemini & DeepSeek bug finding and ideas
+- Muzaffer TÜRKOĞLU - Project idea, coding support, publisher
+- Seyfettin YILMAZ - Animations, coding support
+- İlker NİZAN - coding support, save/load systems, exe packaging
+- Gemini & DeepSeek bug finding, coding support
